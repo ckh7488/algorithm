@@ -19,7 +19,7 @@ int main()
         retCommand(command);
     }
 
-    return 1;
+    return 0;
 }
 
 void retCommand(string command)
