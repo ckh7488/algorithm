@@ -1,2 +1,3 @@
-![수정](https://user-images.githubusercontent.com/75701998/188176635-48fe0e43-2a42-4ca1-a50d-27b68461a7de.png)
-![수정전](https://user-images.githubusercontent.com/75701998/188176647-bcf755d3-049c-4271-919c-1ded6d812e1e.png)
+![수정전](https://user-images.githubusercontent.com/75701998/188176874-e6e688d4-884e-467f-a7db-ecc777393303.png)
+![수정](https://user-images.githubusercontent.com/75701998/188176791-92c12e9c-a56b-47de-85a7-17f45d768873.png)
+
