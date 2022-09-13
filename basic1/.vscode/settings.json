@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.go": "code-text-binary",
+        "tuple": "cpp",
+        "iostream": "cpp"
+    }
+}
